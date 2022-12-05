@@ -25,6 +25,6 @@ import { MediaItemFormComponent } from './media-item-form.component';
   ],
   bootstrap: [
     AppComponent
-  ]
+  ],
 })
 export class AppModule {}
